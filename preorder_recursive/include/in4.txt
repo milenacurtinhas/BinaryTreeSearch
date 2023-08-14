@@ -1,0 +1,4 @@
+3
+SET maria 18 2.11
+SET jose 32 1.56
+SET paulo 55 1.65
