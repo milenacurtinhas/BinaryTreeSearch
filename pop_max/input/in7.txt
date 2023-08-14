@@ -1,0 +1,4 @@
+3
+SET jose 32 1.56
+POP_MIN
+POP_MAX
